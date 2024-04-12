@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 2Kronos
-- 👀 I’m interested in Java script, css, HTML
-- 🌱 I’m currently learning Java script, css , HTML
-- 💞️ I’m looking to collaborate on Webgl Designs
+- 👀 I’m interested in all things tech related.
+- 🌱 I’m currently a BTECH student.
+- 💞️ I’m looking to collaborate on Webgl Designs at the moment.
 - 📫 How to reach me rayachrinovic@gmail.com
   
 
