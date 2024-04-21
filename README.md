@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things tech related.
 - 🌱 I’m currently a BTECH student.
 - 💞️ I’m looking to collaborate on Webgl Designs at the moment.
-- 📫 How to reach me rayachrinovic@gmail.com
+- 📫 How to reach me 21kronos@gmail.com
   
 
 <!---
