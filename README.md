@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 
-# GitHub Statistics
+## GitHub Statistics
 
 Explore my GitHub statistics and the languages I frequently work with:
 
