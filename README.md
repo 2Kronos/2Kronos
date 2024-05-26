@@ -18,6 +18,7 @@ Hello, I am **2Kronos**, a dedicated and passionate technology enthusiast curren
 - **CSS**
 - **JavaScript**
 - **WebGL**
+- **C**
 
 ## Current Focus
 
