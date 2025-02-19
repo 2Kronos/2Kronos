@@ -12,6 +12,8 @@ Explore my GitHub statistics and the languages I frequently work with:
 [![](https://raw.githubusercontent.com/2Kronos/Thickduck/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/2Kronos/Thickduck/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2kronos&theme=aura_dark)
    
 </div>
 
