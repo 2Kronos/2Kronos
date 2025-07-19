@@ -41,7 +41,7 @@ Hello, I am **2Kronos**, a dedicated and passionate technology enthusiast curren
 
 I am always open to connecting with professionals, exchanging ideas, and collaborating on innovative projects. Feel free to reach out to me at:
 
-- **Email**: 21kronos@gmail.com
+- **Email**: rayachrinovic@gmail.com
 
 
 ## Highlighted Project
