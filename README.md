@@ -1,1 +1,1 @@
-![download](https://github.com/user-attachments/assets/0fb9af75-ea04-41a7-88da-d158ed1c3fa1)
+![Mahoraga](https://github.com/user-attachments/assets/2bf33d06-8bc0-49e9-af12-0d202b7ab062)
