@@ -1,1 +1,1 @@
-![Mahoraga](https://github.com/user-attachments/assets/2bf33d06-8bc0-49e9-af12-0d202b7ab062)
+![sukuna](https://github.com/user-attachments/assets/3858922c-3b36-49ca-b58f-44341bc23055)
