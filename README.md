@@ -1,1 +1,7 @@
 ![VejEg8](https://github.com/user-attachments/assets/7136a64d-609f-4754-892b-501ed57fd618)
+
+
+[![](https://raw.githubusercontent.com/2Kronos/Thickduck/master/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/2Kronos/Thickduck/master/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2kronos&theme=gruvbox)
