@@ -1,3 +1,21 @@
+# Hey there 
+
+This is my **learning profile**  where I document my journey as a developer.
+
+All my coursework, experiments, and practice across different languages and technologies lives here.
+
+---
+
+##  Want to see my projects?
+
+Head over to my **professional GitHub profile** where I post all my finished projects:
+
+### 👉 [github.com/Chrinovic-Raya](https://github.com/Chrinovic-Raya)
+
+---
+
+*This profile is where I learn. That profile is where I build.* 🛠️
+
 ![VejEg8](https://github.com/user-attachments/assets/7136a64d-609f-4754-892b-501ed57fd618)
 
 
