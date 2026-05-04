@@ -18,7 +18,8 @@ Head over to my **professional GitHub profile** where I post all my finished pro
 
 *This profile is where I learn. That profile is where I build.* 🛠️
 
-![VejEg8](https://github.com/user-attachments/assets/7136a64d-609f-4754-892b-501ed57fd618)
+
+<img width="736" height="1008" alt="Pin by EXknight39 on Black Clover in 2022 _ Black clover manga, Black clover anime, Manga anime one piece" src="https://github.com/user-attachments/assets/2ac91ece-a06e-48a3-8b4d-438311f1832a" />
 
 
 
